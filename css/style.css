@@ -96,7 +96,7 @@ section {
 
 .card {
     background: white;
-    padding: 0; /* Removi o padding total para a imagem encostar no topo */
+    padding: 0;
     flex: 1;
     min-width: 280px;
     border-radius: 12px;
